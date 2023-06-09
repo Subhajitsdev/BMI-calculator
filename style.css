@@ -22,7 +22,7 @@ span{
 }
 input{
     outline: none;
-    padding: 8px;
+    padding: 8px 24px;
     border: none;
    
 }
@@ -53,7 +53,7 @@ button{
 #reset {
     color: aliceblue;
     border: none;
-    font-size: 20px;
+    font-size: 27px;
     cursor: pointer;
     background-color: rgb(26, 25, 25);
     padding: 10px;
